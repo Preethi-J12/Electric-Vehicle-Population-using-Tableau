@@ -1,6 +1,6 @@
 # Electric-Vehicle-Population-using-Tableau
 
-PROBLEM STATEMENT : Tableau Project/PROBLEM STATEMENT.pdf
+--------------------------------PROBLEM STATEMENT : Tableau Project/PROBLEM STATEMENT.pdf---------------------------------
 
 The project focuses on creating visualizations to address the following requirements:
 	1.	Total Vehicles by Model Year (From 2010 Onwards):
@@ -29,7 +29,7 @@ Key Features
 
 This project demonstrates how data visualization tools like Tableau can provide actionable insights into electric vehicle adoption trends.
 
-DATASET : Tableau Project/Electric_Vehicle_Population_Data.xlsx
+-----------------------------------DATASET : Tableau Project/Electric_Vehicle_Population_Data.xlsx------------------------
 
 Here’s the README for the dataset:
 
@@ -65,5 +65,5 @@ Applications
 
 This dataset serves as the foundation for creating interactive dashboards and performing detailed analysis of the electric vehicle market.   
 
-
+-----------------------------
 
