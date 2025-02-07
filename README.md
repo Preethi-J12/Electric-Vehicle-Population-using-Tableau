@@ -1,6 +1,6 @@
 # Electric-Vehicle-Population-using-Tableau
 
---------------------------------PROBLEM STATEMENT : Tableau Project/PROBLEM STATEMENT.pdf---------------------------------
+----------------------------PROBLEM STATEMENT : Tableau Project/PROBLEM STATEMENT.pdf-------------------------
 
 The project focuses on creating visualizations to address the following requirements:
 	1.	Total Vehicles by Model Year (From 2010 Onwards):
@@ -65,5 +65,50 @@ Applications
 
 This dataset serves as the foundation for creating interactive dashboards and performing detailed analysis of the electric vehicle market.   
 
------------------------------
+-----------------------------Explanation : Tableau Project/EVP using Tableau.pdf-------------------------------
+
+
+The provided PDF contains the following details:
+
+Page 1: Title Page
+	•	Title: Electric Vehicle Population Using Tableau
+	•	Author: J. Preethi
+	•	Registration Number: 21091A23435
+	•	Includes a Tableau dashboard link.
+
+Page 2: Total Vehicles by Model Year: 
+                The “Total Vehicles by Model Year” visualization in the PDF:
+	•	Visualization Type: Line/Area Chart.
+	•	Purpose:
+	•	Shows the distribution of electric vehicles (EVs) based on their model year starting from 2010.
+	•	Provides insights into the growth pattern and adoption trends over the years.
+Page 3: Total Vehicles by State: The “Total Vehicles by State” visualization in the PDF:
+	•	Visualization Type: Map Chart.
+	•	Purpose:
+	•	Displays the geographical distribution of electric vehicles across different states.
+	•	Identifies regions with higher or lower EV adoption rates.
+
+page 4:	Top 10 Vehicles by Make: Bar chart.
+        •	Visualization Type: Bar Chart.
+	•	Purpose:
+	•	Highlights the top 10 electric vehicle manufacturers based on the number of registered vehicles.
+	•	Provides insights into the most dominant EV brands in the market.
+
+Page 5:	Total Vehicles by CAFV Eligibility: Pie/Donut chart.
+        •	Visualization Type: Pie/Donut Chart.
+	•	Purpose:
+	•	Shows the proportion of vehicles eligible for Clean Alternative Fuel Vehicle (CAFV) incentives.
+	•	Divides vehicles into categories like “Eligible” and “Not Eligible,” explaining the role of policies in 
+                EV adoption.
+Page 6: Total Vehicles by Model: Grid view.
+        •	Visualization Type: Grid View.
+	•	Purpose:
+	•	Highlights the top 10 electric vehicle models based on the number of registrations.
+	•	Provides insights into consumer preferences for specific EV models.
+ ---------------------------------------Conclusion------------------------------------------------
+The conclusion in the PDF summarizes the outcomes of the analysis:
+	•	The project successfully uses Tableau to analyze and visualize electric vehicle population data.
+	•	Key insights into EV adoption trends, geographical distribution, manufacturer dominance, and the impact of CAFV eligibility are presented.
+	•	The analysis demonstrates how Tableau’s interactive dashboards effectively provide actionable insights for understanding EV growth and adoption patterns.
+-----------------------------------------------Thank You------------------------------------------------
 
