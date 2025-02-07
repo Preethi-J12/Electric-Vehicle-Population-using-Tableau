@@ -28,8 +28,7 @@ Key Features
 	•	Data-driven analysis to understand the impact of policies and consumer preferences.
 
 This project demonstrates how data visualization tools like Tableau can provide actionable insights into electric vehicle adoption trends.
-
------------------------------------------------------------DATASET : Tableau Project/Electric_Vehicle_Population_Data.xlsx------------------------
+----------------------------DATASET : TableauProject/Electric_Vehicle_Population_Data.xlsx------------------------
 
 Here’s the README for the dataset:
 
@@ -105,10 +104,10 @@ Page 6: Total Vehicles by Model: Grid view.
 	•	Purpose:
 	•	Highlights the top 10 electric vehicle models based on the number of registrations.
 	•	Provides insights into consumer preferences for specific EV models.
- ---------------------------------------Conclusion------------------------------------------------
+ -------------------------------------------------Conclusion--------------------------------------------------------
 The conclusion in the PDF summarizes the outcomes of the analysis:
 	•	The project successfully uses Tableau to analyze and visualize electric vehicle population data.
 	•	Key insights into EV adoption trends, geographical distribution, manufacturer dominance, and the impact of CAFV eligibility are presented.
 	•	The analysis demonstrates how Tableau’s interactive dashboards effectively provide actionable insights for understanding EV growth and adoption patterns.
------------------------------------------------Thank You------------------------------------------------
+--------------------------------------------------------Thank You--------------------------------------------------
 
